@@ -3,10 +3,8 @@
 using namespace std;
 
 
-class mahasiswa {
+class mahasiswa { //membuat class mahasiswa
 private:
-	const int id;
-	string nama;
 	const int id; //3 variabel mahasiswa
 	string nama;
 	float nilai;
@@ -27,5 +25,7 @@ public:
 };
 
 int main() {
-	mahasiswa mhs(12, "CICI", 90.5);
+	mahasiswa mhs(12, "Asroni", 90.5);
 
+	return 0;
+}
