@@ -21,4 +21,5 @@ public:
 	// membuat destruktor
 	~mahasiswa() {
 		cout << "Id = " << id << endl;
+		cout << "Nama = " << nama << endl;
 		
