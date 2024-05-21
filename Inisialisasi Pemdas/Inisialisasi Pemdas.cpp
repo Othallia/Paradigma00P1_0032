@@ -27,5 +27,5 @@ public:
 };
 
 int main() {
-	mahasiswa mhs(12, "Asroni", 90.5);
+	mahasiswa mhs(12, "CICI", 90.5);
 
